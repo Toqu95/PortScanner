@@ -1,4 +1,5 @@
 # PortScanner
+A Port Scanner That Uses Threading For Speed And Socket For The Scanning
 
 # Usage
 
